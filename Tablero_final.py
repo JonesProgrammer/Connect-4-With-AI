@@ -1,5 +1,7 @@
 from Connect4_basico import crear_tablero
 from Connect4_basico import hacer_movimiento
+from Connect4_basico import verificar_victoria
+from Connect4_basico import columnas_disponibles
 from Connect4_minimax_poda_alfa-beta import minimax
 
 # Función de utilidad para evaluar el tablero
